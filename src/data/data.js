@@ -1,9 +1,9 @@
 module.exports = {
-  SiteTitle: 'Abdelali',
+  SiteTitle: 'Vo Thanh Hai',
   Sitelogo: '#',
-  SiteLogoText: 'Abdelali',
-  SiteAuthor: 'Abdelali Dahir',
-  SiteDescription: 'Front End Developer',
+  SiteLogoText: 'Hai t',
+  SiteAuthor: 'Vo Thanh Hai',
+  SiteDescription: 'Mobile Developer',
   defaultDescription: 'Software engineer!', 
   githubApiQuery: `query ($number_of_repos: Int!) {
     viewer {
@@ -53,8 +53,8 @@ module.exports = {
     zipCode: 'ZipCode',
   },
   SiteContact: {
-    email: 'abdali.dahir@gmail.com',
-    phone: 'phone number',
+    email: 'vothanhhai1996@gmail.com',
+    phone: '0365887549',
   },
   SiteCopyright: '2020',
 };

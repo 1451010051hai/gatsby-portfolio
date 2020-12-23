@@ -29,9 +29,9 @@ const Footer = () => {
 						<CopyRight className="text-dark">
 							© 
 							<span> {new Date().getFullYear()}, Built with {` `} 
-								<a href="https://www.gatsbyjs.org">Gatsby</a>{" "}
+								<a href="https://www.facebook.com/vth123456">Vo Thanh Hai</a>{" "}
           		</span> 
-							Copyright 2020 by {data.SiteAuthor} </CopyRight>
+						</CopyRight>
 					</div>
 				</ContainerLayout>
 			</FooterStyle>
