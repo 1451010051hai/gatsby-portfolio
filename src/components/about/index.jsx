@@ -6,7 +6,7 @@ import {SectionIntro, ContainerLayout, ResumeButton} from "../common";
 const About = () => {
   const data = useStaticQuery(graphql`
     query {
-      placeholderImage: file(relativePath: { eq: "https://scontent.fsgn5-5.fna.fbcdn.net/v/t1.0-9/57348183_1259549730864782_44313960731639808_n.jpg?_nc_cat=104&ccb=2&_nc_sid=e3f864&_nc_ohc=7N-1iSUj5BUAX_tp6Rw&_nc_oc=AQkb1gmOdF9TljnmNNlSQoZY58q9QMYiloD7akq_ASKsHlbP7qsqP-PD1scfjqHk9jY&_nc_ht=scontent.fsgn5-5.fna&oh=d9e836ef7ae389518601b8c0b6065455&oe=5FF5EFD3" }) {
+      placeholderImage: file(relativePath: { eq: "https://scontent.fsgn2-5.fna.fbcdn.net/v/t1.6435-9/57348183_1259549730864782_44313960731639808_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=e3f864&_nc_ohc=1xecqertnT0AX9uGdPC&_nc_oc=AQnI09YgqVuVDH-Zxbzsvt6sXE_ULeAqSA4XIKQf2_-GdBiD5Tc0EfKA_E3eFhhIs7M&_nc_ht=scontent.fsgn2-5.fna&oh=0b572e8780d3293bef841b58b55b196a&oe=608ED961" }) {
         childImageSharp {
           fluid(maxWidth: 550) {
             ...GatsbyImageSharpFluid
