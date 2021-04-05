@@ -44,7 +44,7 @@ module.exports = {
   SiteSocialLinks: {
     twitter: 'https://twitter.com/AbdaliDahir',
     github: 'https://github.com/AbdaliDahir',
-    linkedin: 'https://www.linkedin.com/in/abdelali-dahir-0b5344111/',
+    linkedin: 'https://www.linkedin.com/in/v%C3%B5-th%C3%A0nh-h%E1%BA%A3i-617144193/',
   },
   SiteAddress: {
     city: 'Casablanca',
